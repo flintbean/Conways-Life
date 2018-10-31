@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/Conways-Life/static/js/runtime~main.a7d533ab.js"
   },
   {
-    "revision": "65f44a08fac14640abf7",
-    "url": "/Conways-Life/static/js/main.65f44a08.chunk.js"
+    "revision": "af613c34529e0ca86a30",
+    "url": "/Conways-Life/static/js/main.af613c34.chunk.js"
   },
   {
     "revision": "6eb6405c9d99258624bc",
     "url": "/Conways-Life/static/js/1.6eb6405c.chunk.js"
   },
   {
-    "revision": "65f44a08fac14640abf7",
-    "url": "/Conways-Life/static/css/main.5ca533e2.chunk.css"
+    "revision": "af613c34529e0ca86a30",
+    "url": "/Conways-Life/static/css/main.1467cb97.chunk.css"
   },
   {
-    "revision": "c72e35a86b22e2787f08fe1d4e763ec3",
+    "revision": "4387e8df0a86d0995b0a9b1e0e5b460c",
     "url": "/Conways-Life/index.html"
   }
 ];
